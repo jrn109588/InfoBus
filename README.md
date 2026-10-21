@@ -9,4 +9,4 @@ Mostra rotas, horários e o link do grupo de WhatsApp de cada ônibus.
 5. **Realtime** – lista atualiza sozinha quando alguém cria/edita/apaga
 
 
-project link: https://bus-project-amber.vercel.app/
+project link: https://infobus.vercel.app/
